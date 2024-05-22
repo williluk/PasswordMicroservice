@@ -1,7 +1,7 @@
 # PasswordMicroservice
 
 ## Description
-
+This program is designed to provide randomly generated passwords via request/response socket communication. This communication can happen over the internet or on one machine with minimal changes. This program is designed with a C program interface in mind, and a C language API is provided for making a request and receiving the password in char array format.  
 ## Setup (Server)
 1. Download all of the files from this repository onto your server.
 2. Run the bash command `make all` to compile the code. 
